@@ -23,6 +23,7 @@
 * [\*.is-epic.me](https://is-epic.me)
 * [\*.is-aswm.teach](https://github.com/is-cool-me/register)
 * [\*.moe.page](https://moe.page/) *萌页面域名*
+* [\*.owns.it.com](https://getyourfree.space/)
 ### open-domains/register
 现在OpenDomains域名的NS记录仅颁发给赞助者，无论域名在和open-domains合并前是否允许NS记录  
 * [\*.is-not-a.dev](https://open-domains.net/)
@@ -129,3 +130,4 @@
 * [\*.ngo.us](https://nic.ngo.us/)
 * [\*.creepers.sbs](https://creepers.sbs) *苦力怕.sbs*
 * [\*.moe.page](https://moe.page/) *萌页面域名*
+* [\*.owns.it.com](https://getyourfree.space/)
