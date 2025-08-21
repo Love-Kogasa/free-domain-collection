@@ -22,6 +22,7 @@
 * [\*.thedev.id](https://thedev.id)
 * [\*.is-epic.me](https://is-epic.me)
 * [\*.is-aswm.teach](https://github.com/is-cool-me/register)
+* [\*.moe.page](https://moe.page/) *萌页面域名*
 ### open-domains/register
 现在OpenDomains域名的NS记录仅颁发给赞助者，无论域名在和open-domains合并前是否允许NS记录  
 * [\*.is-not-a.dev](https://open-domains.net/)
@@ -55,7 +56,6 @@
 * [\*.osfc.org.cn](https://registry.osfc.org.cn/)
 * [\*.osfs.top](https://registry.osfc.org.cn/)
 * [\*.nc.me](https://nc.me) *仅免费提供给大学生*
-* [\*.tk](https://dot.tk) *据说很不稳定，不永久提供*
 * [\*.creepers.sbs](https://creepers.sbs) *苦力怕.sbs*
 ### DigitalPlatDev/FreeDomain
 * [\*.us.kg](https://domain.digitalplat.org/)
@@ -85,7 +85,7 @@
 * [\*.or.td](https://freename.cn)
 
 ## 特殊/其他
-* [\*.ngo.us](https://nic.ngo.us/) 提供给非盈利组织的免费域名
+* [\*.ngo.us](https://nic.ngo.us/) *提供给非盈利组织的免费域名，这个名称可能比较敏感，请注意不要引起不必要的误会*
 
 ## 其他的
 * [freeDNS](https://freedns.afraid.org/) 免费的非常多的共享域名以及DNS服务
@@ -115,7 +115,6 @@
 * [\*.osfc.org.cn](https://registry.osfc.org.cn/)
 * [\*.osfs.top](https://registry.osfc.org.cn/)
 * [\*.nc.me](https://nc.me) *仅免费提供给大学生*
-* __[\*.tk](https://dot.tk)__ *据说很不稳定，不永久提供*
 * [\*.us.kg](https://domain.digitalplat.org/)
 * [\*.dpdns.org](https://domain.digitalplat.org/)
 * [\*.qzz.io](https://domain.digitalplat.org/)
@@ -135,3 +134,4 @@
 * [\*.or.td](https://freename.cn)
 * [\*.ngo.us](https://nic.ngo.us/)
 * [\*.creepers.sbs](https://creepers.sbs) *苦力怕.sbs*
+* [\*.moe.page](https://moe.page/) *萌页面域名*
