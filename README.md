@@ -56,6 +56,7 @@
 * [\*.osfs.top](https://registry.osfc.org.cn/)
 * [\*.nc.me](https://nc.me) *仅免费提供给大学生*
 * [\*.tk](https://dot.tk) *据说很不稳定，不永久提供*
+* [\*.creepers.sbs](https://creepers.sbs) *苦力怕.sbs*
 ### DigitalPlatDev/FreeDomain
 * [\*.us.kg](https://domain.digitalplat.org/)
 * [\*.dpdns.org](https://domain.digitalplat.org/)
@@ -133,3 +134,4 @@
 * [\*.ne.td](https://freename.cn)
 * [\*.or.td](https://freename.cn)
 * [\*.ngo.us](https://nic.ngo.us/)
+* [\*.creepers.sbs](https://creepers.sbs) *苦力怕.sbs*
