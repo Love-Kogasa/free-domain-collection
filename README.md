@@ -1,11 +1,11 @@
 # 免费域名收集
-> 为了更好的收集和支持这些免费的域名服务，我接下来会推出一个静态网站来收录这些域名  
-~~也可能是动态的，这样可以更好的支持dns检测等杂七腊八的功能，具体看我懒不懒了~~  
-> 很大一部分是在网上找的，具体我也没有试过w，如果有试过的可以提一个pr或issue来告诉我域名具体是否真的可用或者有什么不正确的地方  
+> Something TIPS  
+> 本仓库里的域名其实很大一部分是我在网上找到的，具体我也没有试过w，如果有试过的可以提一个pr或issue来告诉我域名具体是否真的可用或者有什么不正确的地方  
 > 在查找的过程中我发现一些类似的收录仓库中的一些免费的域名服务不再提供了，因此这里希望有能力的朋友去支持一下这些公益项目。十分感谢这些免费域名提供者为我这样的学生，以及个人，开源项目等提供了一个免费的的域名。  
-> 知道一个好的免费域名？在提交pr前阅读目录下的[RULE.md](https://github.com/Love-Kogasa/free-domain-collection)  
+> 知道一个好的免费域名或有域名不可用？在提交pr前阅读目录下的[RULE.md](https://github.com/Love-Kogasa/free-domain-collection)  
 > 对于包含免费域名非常多的项目，我会起一个小标题，少的就直接列了  
-> 下面内容不会重复，任何域名只会在分类中出现一次
+> 下面内容不会重复，任何域名只会在分类中出现一次  
+> 本仓库网页使用 [docsify](https://docsify.js.org/#/zh-cn/) 生成
 
 ## 目录索引
 1. [无特殊限定的免费域名](#无特殊限定)
@@ -42,12 +42,6 @@
 * [\*.憨憨.我爱你](https://domain.willin.wang/)
 * [\*.css.fund](https://domain.willin.wang/)
 * [\*.kaiyuan.fund](https://domain.willin.wang/)
-<!-- #### dcc-mtr/dcc-free-domain
-似乎是很早以前(3 years ago)的项目了，具体我也不清楚它还是否工作，但是看起来这些域名都还存在  
-* [\*.mtr.pub](https://github.com/dcc-mtr/dcc-free-domain)
-* [\*.monika.love](https://github.com/dcc-mtr/dcc-free-domain)
-* [\*.ddlc.love](https://github.com/dcc-mtr/dcc-free-domain)
-* [\*.ddlc.top](https://github.com/dcc-mtr/dcc-free-domain) -->
 
 ## 无特殊条件允许NS记录
 * [\*.eu.org](https://nic.eu.org/)
