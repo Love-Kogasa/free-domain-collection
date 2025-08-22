@@ -1,10 +1,12 @@
 # 免费域名收集
 > \>_ Something TIPS  
+>This page may not be available in your native language, but you can help me translate the page, fork the repository and add a directory in your language and submit a pr. Of course, you can also clone the repository to your repository, translate it and provide it using another domain name  
 > 本仓库里的域名其实很大一部分是我在网上找到的，具体我也没有试过w，如果有试过的可以提一个pr或issue来告诉我域名具体是否真的可用或者有什么不正确的地方  
 > 在查找的过程中我发现一些类似的收录仓库中的一些免费的域名服务不再提供了，因此这里希望有能力的朋友去支持一下这些公益项目。十分感谢这些免费域名提供者为我这样的学生，以及个人，开源项目等提供了一个免费的的域名。  
 > 知道一个好的免费域名或有域名不可用？在提交pr前阅读目录下的[RULE.md](https://github.com/Love-Kogasa/free-domain-collection/blob/main/RULE.md)  
 > 对于包含免费域名非常多的项目，我会起一个小标题，少的就直接列了，下面内容不会重复，任何域名只会在分类中出现一次  
-> 本仓库网页使用 [docsify](https://docsify.js.org/#/zh-cn/) 生成
+> 本仓库网页使用 [docsify](https://docsify.js.org/#/zh-cn/) 生成  
+> 本页(如果您是通过 free-domains4.developer.li 跳转而来)不是 developer.li 的域名注册页！developer.li也是一个非常不错的免费域名，由FreeDNS托管并公开注册，如果您也想要一个developer.li域名，[点我](https://freedns.afraid.org/subdomain/edit.php?data_id=24443117)
 
 ## 目录索引
 1. [无特殊限定的免费域名](#无特殊限定)
