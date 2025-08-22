@@ -28,6 +28,7 @@
 * [\*.is-not.cool](https://is-not.cool/)
 * [\*.is-turly-a.pro](http://is-truly-a.pro/)
 * [\*.part-of.my.id](https://part-of.my.id/)
+* [\*.makesome.cool](https://github.com/1834423612/makesome.cool)
 ### open-domains/register
 现在OpenDomains域名的NS记录仅颁发给赞助者，无论域名在和open-domains合并前是否允许NS记录  
 * [\*.is-not-a.dev](https://open-domains.net/)
@@ -144,3 +145,4 @@
 * [\*.is-turly-a.pro](http://is-truly-a.pro/)
 * [\*.part-of.my.id](https://part-of.my.id/)
 * [\*.zako.work](https://github.com/MuskaNet/zako.work)
+* [\*.makesome.cool](https://github.com/1834423612/makesome.cool)
