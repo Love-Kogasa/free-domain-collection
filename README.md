@@ -25,6 +25,7 @@
 * [\*.moe.page](https://moe.page/) *萌页面域名*
 * [\*.owns.it.com](https://getyourfree.space/)
 * [\*.rweb.site](https://rweb.site/) *仅CNANE记录，对用户申请的第二个及以后的域名有开源star>5要求*
+* [\*.foo.ng](https://github.com/Pokymon/foo.ng)
 ### open-domains/register
 现在OpenDomains域名的NS记录仅颁发给赞助者，无论域名在和open-domains合并前是否允许NS记录  
 * [\*.is-not-a.dev](https://open-domains.net/)
@@ -133,3 +134,4 @@
 * [\*.moe.page](https://moe.page/) *萌页面域名*
 * [\*.owns.it.com](https://getyourfree.space/)
 * [\*.rweb.site](https://rweb.site/) *仅CNANE记录，对用户申请的第二个及以后的域名有开源star>5要求*
+* [\*.foo.ng](https://github.com/Pokymon/foo.ng)
