@@ -26,6 +26,9 @@
 * [\*.owns.it.com](https://getyourfree.space/)
 * [\*.rweb.site](https://rweb.site/) *仅CNANE记录，对用户申请的第二个及以后的域名有开源star>5要求*
 * [\*.foo.ng](https://github.com/Pokymon/foo.ng)
+* [\*.is-not.cool](https://is-not.cool/)
+* [\*.is-turly-a.pro](http://is-truly-a.pro/)
+* [\*.part-of.my.id](https://part-of.my.id/)
 ### open-domains/register
 现在OpenDomains域名的NS记录仅颁发给赞助者，无论域名在和open-domains合并前是否允许NS记录  
 * [\*.is-not-a.dev](https://open-domains.net/)
@@ -54,6 +57,8 @@
 * [\*.osfs.top](https://registry.osfc.org.cn/)
 * [\*.nc.me](https://nc.me) *仅免费提供给大学生*
 * [\*.creepers.sbs](https://creepers.sbs) *苦力怕.sbs*
+* [\*.creepers.cloud](https://creepers.cloud) *苦力怕.cloud*
+* [\*.zako.work](https://github.com/MuskaNet/zako.work)
 ### DigitalPlatDev/FreeDomain
 * [\*.us.kg](https://domain.digitalplat.org/)
 * [\*.dpdns.org](https://domain.digitalplat.org/)
@@ -131,7 +136,12 @@
 * [\*.or.td](https://freename.cn)
 * [\*.ngo.us](https://nic.ngo.us/)
 * [\*.creepers.sbs](https://creepers.sbs) *苦力怕.sbs*
+* [\*.creepers.cloud](https://creepers.cloud) *苦力怕.cloud*
 * [\*.moe.page](https://moe.page/) *萌页面域名*
 * [\*.owns.it.com](https://getyourfree.space/)
 * [\*.rweb.site](https://rweb.site/) *仅CNANE记录，对用户申请的第二个及以后的域名有开源star>5要求*
 * [\*.foo.ng](https://github.com/Pokymon/foo.ng)
+* [\*.is-not.cool](https://is-not.cool/)
+* [\*.is-turly-a.pro](http://is-truly-a.pro/)
+* [\*.part-of.my.id](https://part-of.my.id/)
+* [\*.zako.work](https://github.com/MuskaNet/zako.work)
