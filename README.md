@@ -93,7 +93,8 @@
 
 ## 其他的
 * [freeDNS](https://freedns.afraid.org/) 免费的非常多的共享域名(如minecraft.pe，may.pub)以及DNS服务，现在支持NS记录  
-* [InfinityFree](https://www.infinityfree.com/) 一家免费的主机提供商，免费服务支持普通的PHP和静态页面部署(不能用来部署api)，支持无限二级域名注册(提供非常多的域名有短如ct.ws的也有好听的有意义的如42web.io，page.gd等)，免费计划支持域名CNAME记录
+* [InfinityFree](https://www.infinityfree.com/) 一家免费的主机提供商，免费服务支持普通的PHP和静态页面部署(不能用来部署api)，支持无限二级域名注册(提供非常多的域名有短如ct.ws的也有好听的有意义的如42web.io，page.gd等)，免费计划支持域名CNAME记录  
+* [ProFreeHost](https://profreehost.com/) 与上者类似，免费计划内容相似(这个允许整邮箱)，域名质量相对差一些，也有好的(如22web.org, html-5.me)
 
 # 汇总
 (**TLD 加粗**)
